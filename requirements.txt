@@ -6,6 +6,6 @@ scikit-learn
 tensorflow        # or torch
 streamlit         # or fastapi
 sounddevice
-pyaudio
+# pyaudio
 torch
 fastapi
