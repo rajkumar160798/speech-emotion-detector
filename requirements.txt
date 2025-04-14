@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+librosa
+scikit-learn
+tensorflow        # or torch
+streamlit         # or fastapi
+sounddevice
+pyaudio
+torch
+fastapi
