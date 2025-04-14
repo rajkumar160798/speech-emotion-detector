@@ -64,7 +64,7 @@ A real-time deep learning system that predicts human emotion from voice using MF
 
 ## Live Emotion Detection App
 
-Built with [Streamlit](https://streamlit.io/) — this app:
+Built with [Streamlit](https://speech-emotion-detector.streamlit.app/) — this app:
 - Records 3 seconds of live audio
 - Extracts MFCC features
 - Predicts emotion using the trained model
