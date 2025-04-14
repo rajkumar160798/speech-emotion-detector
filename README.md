@@ -56,8 +56,8 @@ A real-time deep learning system that predicts human emotion from voice using MF
 </p>
 
 <p align="center">
-  <img src="graphs/confusion_matrix.png" width="48%">
-  <img src="graphs/classification_reports.png" width="48%">
+  <img src="graphs/confusion_matrix.png" width="45%">
+  <img src="graphs/classification_reports.png" width="45%">
 </p>
 
 ---
