@@ -51,8 +51,8 @@ A real-time deep learning system that predicts human emotion from voice using MF
 ## Training & Evaluation
 
 <p align="center">
-  <img src="Graphs/epoch_accuracy.png" width="45%">
-  <img src="Graphs/epoch_loss.png" width="45%">
+  <img src="Graphs/Epoch_accuracy.png" width="45%">
+  <img src="Graphs/Epoch_loss.png" width="45%">
 </p>
 
 <p align="center">
