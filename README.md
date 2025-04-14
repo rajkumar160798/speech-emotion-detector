@@ -51,13 +51,13 @@ A real-time deep learning system that predicts human emotion from voice using MF
 ## Training & Evaluation
 
 <p align="center">
-  <img src="graphs/epoch_accuracy.png" width="45%">
-  <img src="graphs/epoch_loss.png" width="45%">
+  <img src="Graphs/epoch_accuracy.png" width="45%">
+  <img src="Graphs/epoch_loss.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="graphs/confusion_matrix.png" width="45%">
-  <img src="graphs/classification_reports.png" width="45%">
+  <img src="Graphs/confusion_matrix.png" width="45%">
+  <img src="Graphs/classification_reports.png" width="45%">
 </p>
 
 ---
@@ -71,7 +71,7 @@ Built with [Streamlit](https://streamlit.io/) — this app:
 - Displays prediction with emoji and styling
 
 <p align="center">
-  <img src="graphs/demo.png" width="80%">
+  <img src="Graphs/demo.png" width="80%">
 </p>
 
 ---
