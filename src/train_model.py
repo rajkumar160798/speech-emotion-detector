@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report, confusion_matrix
 import tensorflow as tf
-from tensorflow.keras import layers, models
+from keras import layers, models
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -77,3 +77,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.legend()
 plt.show()
+
+
+import joblib
+joblib.dump(label_encoder, "src/label_encoder.pkl")
